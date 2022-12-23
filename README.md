@@ -3,10 +3,10 @@ The project is about separating colored blocks in a production line using UR10 r
 ![t100](/Videos/operation.gif)
 
 Contributors (alphabetic order):
-Arman Barghi
-Amirhossein Dabiri
-Mohammadmehdi Rahimi
-Siavash Shams
+Arman Barghi,
+Amirhossein Dabiri,
+Mohammadmehdi Rahimi,
+Siavash Shams,
 Mohammadreza Teymoorian
 
 Main repo: https://github.com/ArmOn007/Arranging-Colored-Blocks-Using-UR10
