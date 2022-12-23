@@ -3,6 +3,7 @@ The project is about separating colored blocks in a production line using UR10 r
 ![t100](/Videos/operation.gif)
 
 Contributors (alphabetic order):
+---
 Arman Barghi,
 Amirhossein Dabiri,
 Mohammadmehdi Rahimi,
